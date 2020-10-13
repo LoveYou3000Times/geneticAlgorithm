@@ -8,7 +8,7 @@ using namespace std;
 const int city_num = 10;//城市
 const int unit_num = 100;//群体规模
 int ps = 10;//变异概率
-const int genmax = 400;//最大迭代数
+const int genmax = 500;//最大迭代数
 
 //城市间距离
 int length_table[10][10] = {
